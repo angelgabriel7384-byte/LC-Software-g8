@@ -1,0 +1,8 @@
+LC-Software-g8
+Copyright 2025 angelgabriel7384-byte
+
+Licensed under the Apache License, Version 2.0
+
+This product includes software components licensed under the Apache License 2.0.
+For more information about the Apache License, visit: http://www.apache.org/licenses/Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-12-11 23:25:35
+Current User's Login: angelgabriel7384-byte
